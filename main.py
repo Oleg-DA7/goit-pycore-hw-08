@@ -179,7 +179,6 @@ class ContactList():
 
 def main():
     cl = load_data()
-#    cl = ContactList()
     print("Welcome to the assistant bot!")
     while True:
          user_input = input("Enter a command: ")
